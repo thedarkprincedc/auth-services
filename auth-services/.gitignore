@@ -1,0 +1,8 @@
+# directories
+.gradle
+build
+
+# files
+*.war
+*.ear
+*.jar
